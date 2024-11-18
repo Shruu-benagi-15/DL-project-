@@ -1,9 +1,9 @@
-# DL-project- jallyfish 
+# DL-project- jellyfish 
 <br>
-# 📊 Amazon Prime Analytics Dashboard - Power BI
+# jellyfish - Deep learning 
 
 ### Overview  
-This Power BI dashboard provides actionable insights and analytics for Amazon Prime Video. It is designed to help users explore key performance metrics, track user engagement, and analyze content performance to drive business decisions.
+
 
 ---
 
@@ -20,10 +20,7 @@ This Power BI dashboard provides actionable insights and analytics for Amazon Pr
 
 ---
 
-### 🛠️ Usage  
-1. **Open the File**:  
-   - Download the `Amazon_Prime_Dashboard.pbix` file from this repository.  
-   - Open it using [Power BI Desktop](https://powerbi.microsoft.com/).  
+  
 2. **Connect Data Sources**:  
    - If prompted, configure the data sources based on your local setup.  
    - Ensure proper access to any external databases or files used.  
@@ -43,8 +40,7 @@ This Power BI dashboard provides actionable insights and analytics for Amazon Pr
 ---
 
 ### 🛑 Requirements  
-- **Power BI Desktop Version**:  
-  - Use the latest version (recommended March 2023 or newer).  
+-.  
 - **Data Access**:  
   - Ensure you have access to the required datasets or sample data provided in this repository.  
 
