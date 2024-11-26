@@ -25,3 +25,5 @@ This repository contains a Jupyter Notebook that explores and analyzes data rela
 ![image alt](https://github.com/Shruu-benagi-15/DL-project-/blob/b22232565e3c2d35ae697146b8aff54a9975282e/Screenshot%20(24).png)
 
 ![image alt](https://github.com/Shruu-benagi-15/DL-project-/blob/6d2dfd18c7dbf99d49122494475796f32422248b/Screenshot%20(25).png)
+
+![image alt](https://github.com/Shruu-benagi-15/DL-project-/blob/6e1610e2076de7453f6130087d4cc94f5591fc8e/Screenshot%20(28).png)
