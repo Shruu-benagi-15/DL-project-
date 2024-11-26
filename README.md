@@ -22,4 +22,4 @@ This repository contains a Jupyter Notebook that explores and analyzes data rela
    ```bash
    git clone https://github.com/YourUsername/Jellyfish-Data-Analysis.git
 
-   ![image alt](https://github.com/Shruu-benagi-15/DL-project-/blob/c225908cc0841db5e7c208b5608b00bca43ab47d/Screenshot%20(24).png)
+   ![image alt](https://github.com/Shruu-benagi-15/DL-project-/blob/b22232565e3c2d35ae697146b8aff54a9975282e/Screenshot%20(24).png)
