@@ -1,4 +1,4 @@
-# 🪼 Jellyfish Data Analysis Project
+#  Jellyfish Data Analysis Project
 
 ### Overview  
 This repository contains a Jupyter Notebook that explores and analyzes data related to jellyfish. The project aims to uncover patterns, behaviors, and ecological impacts of jellyfish through data visualization and analysis techniques. It is designed for researchers, data enthusiasts, and marine biologists interested in marine life analytics.
